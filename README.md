@@ -1,1 +1,1 @@
-# simple-todo
+# simple-todo react project
